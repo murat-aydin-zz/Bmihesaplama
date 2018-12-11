@@ -1,2 +1,8 @@
-# Bmihesaplama
-Flutter ile  Vücut kitle endeks   hesaplama uygulaması
+# vucutkitleindexhesaplama
+
+A new Flutter application.
+
+## Getting Started
+
+For help getting started with Flutter, view our online
+[documentation](https://flutter.io/).
